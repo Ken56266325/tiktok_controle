@@ -66,11 +66,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-06-19T16:18:42.883358",
+            "countdown_start_time": "2026-06-12T16:19:58.093425",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 0,
-            "max_pauses": 3
+            "pause_count": 1,
+            "max_pauses": 3,
+            "paused_remaining_time": 604724,
+            "countdown_paused": true
         },
         {
             "id": "RafanomezantsoaoEtCihLB",
