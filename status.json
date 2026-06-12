@@ -190,6 +190,18 @@
             "countdown_start_time": "2026-06-12T22:21:50.278642",
             "affiliation_balance": 0,
             "countdown_paused": false
+        },
+        {
+            "id": "AinaTc8z4R7N",
+            "android_id": "c6c8c0fe7634e485d02582269a5db8d0",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-06-12T23:14:07.002638",
+            "affiliation_balance": 0,
+            "plan": "Semaine",
+            "pause_count": 0,
+            "max_pauses": 3
         }
     ]
 }
