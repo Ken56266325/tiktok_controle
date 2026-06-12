@@ -1,18 +1,6 @@
 {
     "scripts": [
         {
-            "id": "kennypuEY7Dy7",
-            "android_id": "1a2e492d8d257b5014a49740653a9f65",
-            "referred_by": null,
-            "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2026-11-03T08:24:26.227244",
-            "affiliation_balance": 5000,
-            "plan": "Mois",
-            "pause_count": 0,
-            "max_pauses": 15
-        },
-        {
             "id": "Gaeh8NXLOYn",
             "android_id": "927a7d7ba99ac1aea677654f03ad0e89",
             "referred_by": null,
