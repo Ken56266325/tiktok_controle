@@ -186,7 +186,7 @@
             "android_id": "7364706d2d082101d3a626b3600f1847",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-06-12T22:21:50.278642",
             "affiliation_balance": 0,
             "countdown_paused": false
