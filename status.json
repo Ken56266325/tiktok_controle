@@ -388,7 +388,9 @@
             "id": "ManahiraPascaln3tzIBd8",
             "android_id": "9ec4e253e228bdbe28fc7e09b13f0323",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "Gwentikj0K7tkQA"
+            ],
             "status": "active",
             "countdown_start_time": "2026-06-14T14:52:10.296802",
             "affiliation_balance": 0,
@@ -411,6 +413,18 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-06-14T17:04:39.457887",
+            "affiliation_balance": 0,
+            "plan": "Semaine",
+            "pause_count": 0,
+            "max_pauses": 3
+        },
+        {
+            "id": "Gwentikj0K7tkQA",
+            "android_id": "6f1db20bb1a3775125eb95d88c764e91",
+            "referred_by": "ManahiraPascaln3tzIBd8",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-06-14T17:44:21.234185",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
