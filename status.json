@@ -403,6 +403,18 @@
             "countdown_start_time": "2026-06-14T15:45:41.678106",
             "affiliation_balance": 0,
             "countdown_paused": false
+        },
+        {
+            "id": "Miantsa9mmxSc2g",
+            "android_id": "54fe44dac98b430cbaf7c4f4e7bf0787",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-06-14T17:04:39.457887",
+            "affiliation_balance": 0,
+            "plan": "Semaine",
+            "pause_count": 0,
+            "max_pauses": 3
         }
     ]
 }
