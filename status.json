@@ -317,14 +317,13 @@
             "android_id": "1f5e12f3a02a43c70a5624e8fe8d5ecb",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-14T14:01:03.937688",
+            "status": "active",
+            "countdown_start_time": "2026-06-21T15:02:21.569531",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
             "max_pauses": 3,
-            "paused_remaining_time": 598456,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "Rova37EFitVi",
