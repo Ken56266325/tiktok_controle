@@ -381,6 +381,16 @@
             "plan": "Semaine",
             "pause_count": 0,
             "max_pauses": 3
+        },
+        {
+            "id": "ManahiraPascaln3tzIBd8",
+            "android_id": "9ec4e253e228bdbe28fc7e09b13f0323",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-06-21T11:50:56.810752",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ]
 }
