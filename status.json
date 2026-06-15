@@ -496,6 +496,16 @@
             "plan": "Semaine",
             "pause_count": 0,
             "max_pauses": 3
+        },
+        {
+            "id": "fiera3834",
+            "android_id": "fb17fa9689dc58b3b18adc93d9424939",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-06-22T16:37:18.105531",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ]
 }
