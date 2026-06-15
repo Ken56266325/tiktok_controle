@@ -401,9 +401,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-06-22T06:23:25.680003",
+            "countdown_start_time": "2026-06-15T06:27:19.089389",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 604566,
+            "pause_count": 1
         },
         {
             "id": "Miantsa9mmxSc2g",
