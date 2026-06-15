@@ -140,11 +140,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-06-20T08:32:25.626318",
+            "countdown_start_time": "2026-06-15T09:08:45.743806",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 0,
-            "max_pauses": 3
+            "pause_count": 1,
+            "max_pauses": 3,
+            "paused_remaining_time": 429819,
+            "countdown_paused": true
         },
         {
             "id": "SenterassX5jQCPz3",
