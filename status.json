@@ -318,12 +318,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-06-21T15:02:21.569531",
+            "countdown_start_time": "2026-06-15T08:07:55.121457",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 1,
+            "pause_count": 2,
             "max_pauses": 3,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 543266
         },
         {
             "id": "Rova37EFitVi",
