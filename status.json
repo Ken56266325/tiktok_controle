@@ -449,6 +449,18 @@
             "max_pauses": 3,
             "paused_remaining_time": 73138,
             "countdown_paused": true
+        },
+        {
+            "id": "IhobyR3y7DiMU",
+            "android_id": "b45e4673b632df3132d018419d5fcbd8",
+            "referred_by": "d16b4b514358e0115d9e0a7788284cea",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-06-15T13:17:33.356211",
+            "affiliation_balance": 0,
+            "plan": "Semaine",
+            "pause_count": 0,
+            "max_pauses": 3
         }
     ]
 }
