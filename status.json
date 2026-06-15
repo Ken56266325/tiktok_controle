@@ -517,6 +517,18 @@
             "plan": "Semaine",
             "pause_count": 0,
             "max_pauses": 3
+        },
+        {
+            "id": "FanaW8Kmex7e",
+            "android_id": "84caa879af6910cdc151aee938bde4fa",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-06-16T03:17:39.949714",
+            "affiliation_balance": 0,
+            "plan": "Semaine",
+            "pause_count": 0,
+            "max_pauses": 3
         }
     ]
 }
