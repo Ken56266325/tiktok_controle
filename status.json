@@ -484,6 +484,18 @@
             "plan": "Semaine",
             "pause_count": 0,
             "max_pauses": 3
+        },
+        {
+            "id": "AvotraleaDcN8k",
+            "android_id": "801c10765b77c0739937845198308143",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-06-15T19:26:00.215387",
+            "affiliation_balance": 0,
+            "plan": "Semaine",
+            "pause_count": 0,
+            "max_pauses": 3
         }
     ]
 }
