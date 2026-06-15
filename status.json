@@ -65,14 +65,13 @@
             "android_id": "b4afe9a620d88f71a706942c7515b405",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-13T17:53:52.351018",
+            "status": "active",
+            "countdown_start_time": "2026-06-21T13:10:10.959459",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 2,
             "max_pauses": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 522808
+            "countdown_paused": false
         },
         {
             "id": "RafanomezantsoaoEtCihLB",
