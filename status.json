@@ -400,8 +400,8 @@
             "android_id": "a43ac9ebb3b5cefda6ffe7bdbec11cb4",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-14T15:45:41.678106",
+            "status": "active",
+            "countdown_start_time": "2026-06-22T06:23:25.680003",
             "affiliation_balance": 0,
             "countdown_paused": false
         },
