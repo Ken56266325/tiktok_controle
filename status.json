@@ -438,14 +438,13 @@
             "android_id": "d16b4b514358e0115d9e0a7788284cea",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-15T10:05:16.213889",
+            "status": "active",
+            "countdown_start_time": "2026-06-17T11:09:28.835956",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
             "max_pauses": 3,
-            "paused_remaining_time": 73138,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "IhobyR3y7DiMU",
