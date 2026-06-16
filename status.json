@@ -138,14 +138,13 @@
             "android_id": "6d866689489ccccbee8738420ccd8fbe",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-15T09:08:45.743806",
+            "status": "active",
+            "countdown_start_time": "2026-06-21T07:18:24.523112",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
             "max_pauses": 3,
-            "paused_remaining_time": 429819,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "SenterassX5jQCPz3",
