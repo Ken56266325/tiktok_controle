@@ -175,14 +175,13 @@
             "android_id": "413f34a3793e8f047f8860ff5b63708f",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-17T14:03:43.163607",
+            "status": "active",
+            "countdown_start_time": "2026-06-17T14:03:51.911372",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
             "max_pauses": 3,
-            "paused_remaining_time": 0,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "lydioEkBcul0J",
