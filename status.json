@@ -612,6 +612,16 @@
             "countdown_start_time": "2026-06-24T17:17:34.650557",
             "affiliation_balance": 0,
             "countdown_paused": false
+        },
+        {
+            "id": "Jeremie929302",
+            "android_id": "cfa6e2de5685b2d6407111747f230062",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-06-24T17:33:24.546931",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ]
 }
