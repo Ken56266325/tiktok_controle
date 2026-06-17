@@ -602,6 +602,16 @@
             "plan": "Semaine",
             "pause_count": 0,
             "max_pauses": 3
+        },
+        {
+            "id": "Jo91930202",
+            "android_id": "4b578d85d0fe800c8378a5c4a0ab18f8",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-06-24T17:17:34.650557",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ]
 }
