@@ -414,14 +414,13 @@
             "android_id": "54fe44dac98b430cbaf7c4f4e7bf0787",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-17T09:39:30.121320",
+            "status": "active",
+            "countdown_start_time": "2026-06-22T00:15:41.753789",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
             "max_pauses": 3,
-            "paused_remaining_time": 382872,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "Gwentikj0K7tkQA",
