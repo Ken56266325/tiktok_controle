@@ -616,9 +616,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-06-24T17:17:34.650557",
+            "countdown_start_time": "2026-06-18T14:58:13.233998",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 526761,
+            "pause_count": 1
         },
         {
             "id": "Jeremie929302",
