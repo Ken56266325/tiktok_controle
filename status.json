@@ -678,6 +678,18 @@
             "plan": "Semaine",
             "pause_count": 0,
             "max_pauses": 3
+        },
+        {
+            "id": "CedricpVAQUHB9",
+            "android_id": "2250aec376927ad4e44af38d2fa6006a",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-06-18T22:50:16.583736",
+            "affiliation_balance": 0,
+            "plan": "Semaine",
+            "pause_count": 0,
+            "max_pauses": 3
         }
     ]
 }
