@@ -480,11 +480,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-06-24T17:00:54.353386",
+            "countdown_start_time": "2026-06-18T10:14:08.223040",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 0,
-            "max_pauses": 3
+            "pause_count": 1,
+            "max_pauses": 3,
+            "paused_remaining_time": 542806,
+            "countdown_paused": true
         },
         {
             "id": "AvotraleaDcN8k",
