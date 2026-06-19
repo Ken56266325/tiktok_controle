@@ -17,7 +17,7 @@
             "android_id": "d9116fa2df0d9b8ca72e6813589093c9",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
+            "status": "active",
             "countdown_start_time": "2026-06-19T11:15:16.956691",
             "affiliation_balance": 0,
             "plan": "Semaine",
@@ -724,6 +724,16 @@
             "plan": "Semaine",
             "pause_count": 0,
             "max_pauses": 3
+        },
+        {
+            "id": "Bomba1o9KE12I3",
+            "android_id": "ab16df194de58dc5100285198ca2ba78",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-06-26T12:55:50.406130",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ]
 }
