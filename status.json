@@ -734,6 +734,18 @@
             "countdown_start_time": "2026-06-26T15:11:24.798941",
             "affiliation_balance": 0,
             "countdown_paused": false
+        },
+        {
+            "id": "LyndaRL0PycSY",
+            "android_id": "72f0339d48a2b0f3ce48e22154eadeef",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-06-20T02:40:54.669285",
+            "affiliation_balance": 0,
+            "plan": "Semaine",
+            "pause_count": 0,
+            "max_pauses": 3
         }
     ]
 }
