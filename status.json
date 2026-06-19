@@ -17,7 +17,7 @@
             "android_id": "d9116fa2df0d9b8ca72e6813589093c9",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
+            "status": "active",
             "countdown_start_time": "2026-06-19T11:15:16.956691",
             "affiliation_balance": 0,
             "plan": "Semaine",
@@ -441,7 +441,7 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-06-19T14:30:43.540603",
+            "countdown_start_time": "2026-06-22T14:32:33.958335",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 4,
@@ -717,9 +717,7 @@
             "id": "BienjqTkk4U7",
             "android_id": "053e7f35686264b34efabe1e38397b1d",
             "referred_by": null,
-            "referred_to": [
-                "MarianoeJsJMNpt"
-            ],
+            "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2026-06-19T04:39:49.230731",
             "affiliation_balance": 0,
@@ -736,18 +734,6 @@
             "countdown_start_time": "2026-06-19T14:57:15.394923",
             "affiliation_balance": 0,
             "countdown_paused": false
-        },
-        {
-            "id": "MarianoeJsJMNpt",
-            "android_id": "9a31d74dba3be16a6a06b0d7f72c4664",
-            "referred_by": "BienjqTkk4U7",
-            "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2026-06-19T16:11:31.134466",
-            "affiliation_balance": 0,
-            "plan": "Semaine",
-            "pause_count": 0,
-            "max_pauses": 3
         }
     ]
 }
