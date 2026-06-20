@@ -708,11 +708,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-06-27T07:25:52.056637",
+            "countdown_start_time": "2026-06-20T19:04:37.427567",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 0,
-            "max_pauses": 3
+            "pause_count": 1,
+            "max_pauses": 3,
+            "paused_remaining_time": 562874,
+            "countdown_paused": true
         },
         {
             "id": "BienjqTkk4U7",
