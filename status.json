@@ -708,14 +708,13 @@
             "android_id": "d4b7d4cee9aa45d74dbd240823391727",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-20T19:04:37.427567",
+            "status": "active",
+            "countdown_start_time": "2026-06-28T13:26:32.445697",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
             "max_pauses": 3,
-            "paused_remaining_time": 562874,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "BienjqTkk4U7",
