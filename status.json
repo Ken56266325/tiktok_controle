@@ -709,13 +709,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-06-22T01:11:49.952835",
+            "countdown_start_time": "2026-06-28T13:55:22.835642",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 2,
             "max_pauses": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 562482
+            "countdown_paused": false
         },
         {
             "id": "BienjqTkk4U7",
