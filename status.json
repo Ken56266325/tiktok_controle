@@ -477,14 +477,13 @@
             "android_id": "089104a7720dd2e1490c1f0e19261a45",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-20T10:07:28.195073",
+            "status": "active",
+            "countdown_start_time": "2026-06-26T08:21:58.816659",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 2,
             "max_pauses": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 414058
+            "countdown_paused": false
         },
         {
             "id": "AvotraleaDcN8k",
