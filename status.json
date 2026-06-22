@@ -601,13 +601,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-06-21T20:19:58.846955",
+            "countdown_start_time": "2026-06-22T16:54:37.440776",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
             "max_pauses": 3,
-            "paused_remaining_time": 16713,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "Jo91930202",
