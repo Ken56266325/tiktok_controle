@@ -808,6 +808,18 @@
             "plan": "Semaine",
             "pause_count": 0,
             "max_pauses": 3
+        },
+        {
+            "id": "Idealc7wY426l",
+            "android_id": "9b0cba9bcdebda0ea0e59d6dd1df8b0d",
+            "referred_by": "Jenny5681519",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-06-23T13:14:32.956344",
+            "affiliation_balance": 0,
+            "plan": "Semaine",
+            "pause_count": 0,
+            "max_pauses": 3
         }
     ]
 }
