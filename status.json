@@ -466,11 +466,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-06-28T16:27:28.071172",
+            "countdown_start_time": "2026-06-23T13:13:30.681373",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 0,
-            "max_pauses": 3
+            "pause_count": 1,
+            "max_pauses": 3,
+            "paused_remaining_time": 443637,
+            "countdown_paused": true
         },
         {
             "id": "FanambynrwN8p8F",
