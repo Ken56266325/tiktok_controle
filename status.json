@@ -466,12 +466,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-06-28T19:32:38.612701",
+            "countdown_start_time": "2026-06-23T13:13:30.681373",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
             "max_pauses": 3,
-            "countdown_paused": false
+            "paused_remaining_time": 443637,
+            "countdown_paused": true
         },
         {
             "id": "FanambynrwN8p8F",
@@ -538,11 +539,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-06-30T13:24:01.656073",
+            "countdown_start_time": "2026-06-24T07:15:46.813807",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
-            "max_pauses": 3
+            "max_pauses": 3,
+            "paused_remaining_time": 540494,
+            "countdown_paused": true
         },
         {
             "id": "SNeddiej8dFvApA",
