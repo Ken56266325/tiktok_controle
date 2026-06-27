@@ -603,7 +603,7 @@
             "android_id": "3b7d4003f41aa41fbd8ea0783b4f8ebf",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-06-27T18:18:46.867594",
             "affiliation_balance": 0,
             "plan": "Semaine",
