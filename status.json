@@ -465,14 +465,13 @@
             "android_id": "c9942c5d4a4138fdd3735b13c59978b5",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-28T08:12:38.609960",
+            "status": "active",
+            "countdown_start_time": "2026-06-29T20:50:56.848521",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 2,
             "max_pauses": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 122688
+            "countdown_paused": false
         },
         {
             "id": "FanambynrwN8p8F",
