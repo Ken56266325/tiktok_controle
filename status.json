@@ -899,6 +899,18 @@
             "plan": "Semaine",
             "pause_count": 0,
             "max_pauses": 3
+        },
+        {
+            "id": "RomualdM5pLMmls",
+            "android_id": "9ce0ec79ee3090c8751c9f92f8ca5e7e",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-01T11:25:15.957964",
+            "affiliation_balance": 0,
+            "plan": "Semaine",
+            "pause_count": 0,
+            "max_pauses": 3
         }
     ]
 }
