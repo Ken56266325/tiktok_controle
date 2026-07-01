@@ -467,7 +467,7 @@
             "referred_to": [
                 "SoloniainaJ0xkU6Y6"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-06-30T21:50:22.758836",
             "affiliation_balance": 0,
             "plan": "Semaine",
@@ -893,7 +893,7 @@
             "android_id": "1c6accc230e47e647339275aa36beb43",
             "referred_by": "faso4mdh1bdj",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-06-30T22:02:53.053537",
             "affiliation_balance": 0,
             "plan": "Semaine",
