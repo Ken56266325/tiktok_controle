@@ -467,14 +467,13 @@
             "referred_to": [
                 "SoloniainaJ0xkU6Y6"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-02T11:59:12.343031",
+            "status": "active",
+            "countdown_start_time": "2026-07-08T22:16:22.302924",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 4,
             "max_pauses": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 517863
+            "countdown_paused": false
         },
         {
             "id": "FanambynrwN8p8F",
