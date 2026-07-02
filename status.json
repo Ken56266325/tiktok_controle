@@ -468,12 +468,13 @@
                 "SoloniainaJ0xkU6Y6"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-08T11:50:15.348858",
+            "countdown_start_time": "2026-07-02T11:59:12.343031",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 4,
             "max_pauses": 3,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 517863
         },
         {
             "id": "FanambynrwN8p8F",
