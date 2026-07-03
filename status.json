@@ -948,6 +948,18 @@
             "plan": "Semaine",
             "pause_count": 0,
             "max_pauses": 3
+        },
+        {
+            "id": "SylvainNsA2jAI0",
+            "android_id": "c44bb43172ba8b36c6ad4728701999ca",
+            "referred_by": "33057926",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-03T19:06:05.569522",
+            "affiliation_balance": 0,
+            "plan": "Semaine",
+            "pause_count": 0,
+            "max_pauses": 3
         }
     ]
 }
