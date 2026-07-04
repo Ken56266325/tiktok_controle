@@ -861,13 +861,12 @@
                 "adrboyNNAjdCV1"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-03T18:05:47.911226",
+            "countdown_start_time": "2026-07-07T02:56:49.675296",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
             "max_pauses": 3,
-            "paused_remaining_time": 242047,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "PatriciaWMy99e3L",
