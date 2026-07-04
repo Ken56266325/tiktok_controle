@@ -857,7 +857,8 @@
             "referred_by": null,
             "referred_to": [
                 "adrboyNNAjdCV1",
-                "Waidhfs4IRaZ"
+                "Waidhfs4IRaZ",
+                "Erict1TrYwp2"
             ],
             "status": "active",
             "countdown_start_time": "2026-07-07T04:14:42.324887",
@@ -994,6 +995,18 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-07-11T15:18:11.758762",
+            "affiliation_balance": 0,
+            "plan": "Semaine",
+            "pause_count": 0,
+            "max_pauses": 3
+        },
+        {
+            "id": "Erict1TrYwp2",
+            "android_id": "03b1f5618c6a20ef9ad1c54aded3a727",
+            "referred_by": "faso4mdh1bdj",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-04T20:36:27.252203",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
