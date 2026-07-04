@@ -861,12 +861,13 @@
                 "adrboyNNAjdCV1"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-07T02:56:49.675296",
+            "countdown_start_time": "2026-07-03T18:05:47.911226",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
             "max_pauses": 3,
-            "countdown_paused": false
+            "paused_remaining_time": 242047,
+            "countdown_paused": true
         },
         {
             "id": "PatriciaWMy99e3L",
@@ -981,7 +982,7 @@
             "android_id": "c656741d42a751db593883edfe4c7f54",
             "referred_by": "Bomba1o9KE12I3",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-07-03T20:31:02.898866",
             "affiliation_balance": 0,
             "plan": "Semaine",
