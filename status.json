@@ -972,11 +972,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-11T19:29:34.877278",
+            "countdown_start_time": "2026-07-05T20:28:28.361617",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 0,
-            "max_pauses": 3
+            "pause_count": 1,
+            "max_pauses": 3,
+            "paused_remaining_time": 514866,
+            "countdown_paused": true
         },
         {
             "id": "Bomba3PU9DZ77K",
