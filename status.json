@@ -886,11 +886,13 @@
             "referred_by": "MbolajCBfyKMg",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-10T13:48:54.462896",
+            "countdown_start_time": "2026-07-05T06:10:58.699221",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
-            "max_pauses": 3
+            "max_pauses": 3,
+            "paused_remaining_time": 459475,
+            "countdown_paused": true
         },
         {
             "id": "adrboyNNAjdCV1",
