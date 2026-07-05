@@ -986,11 +986,13 @@
             "referred_by": "Bomba1o9KE12I3",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-11T08:30:08.003818",
+            "countdown_start_time": "2026-07-05T22:21:25.645641",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 0,
-            "max_pauses": 3
+            "pause_count": 1,
+            "max_pauses": 3,
+            "paused_remaining_time": 468522,
+            "countdown_paused": true
         },
         {
             "id": "Waidhfs4IRaZ",
