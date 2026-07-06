@@ -465,7 +465,8 @@
             "android_id": "c9942c5d4a4138fdd3735b13c59978b5",
             "referred_by": null,
             "referred_to": [
-                "SoloniainaJ0xkU6Y6"
+                "SoloniainaJ0xkU6Y6",
+                "hasinagl31Ebrk"
             ],
             "status": "active",
             "countdown_start_time": "2026-07-10T04:46:12.894783",
@@ -1014,6 +1015,18 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-07-11T20:42:47.915668",
+            "affiliation_balance": 0,
+            "plan": "Semaine",
+            "pause_count": 0,
+            "max_pauses": 3
+        },
+        {
+            "id": "hasinagl31Ebrk",
+            "android_id": "92eb18367351857d9283e961aabac083",
+            "referred_by": "MbolajCBfyKMg",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-06T10:26:46.632066",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
