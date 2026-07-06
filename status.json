@@ -540,12 +540,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-10T18:44:55.269600",
+            "countdown_start_time": "2026-07-06T06:22:02.628725",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
             "max_pauses": 3,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 390172
         },
         {
             "id": "SNeddiej8dFvApA",
