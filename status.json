@@ -283,7 +283,9 @@
             "id": "@Rafranck12eOsjWPb5",
             "android_id": "fb8e1f2dc74b8fde24077e4afe3e0157",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "juscojaonaduBNJKSI"
+            ],
             "status": "inactive",
             "countdown_start_time": "2026-06-13T15:29:01.696224",
             "affiliation_balance": 0,
@@ -1027,6 +1029,18 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2026-07-06T10:26:46.632066",
+            "affiliation_balance": 0,
+            "plan": "Semaine",
+            "pause_count": 0,
+            "max_pauses": 3
+        },
+        {
+            "id": "juscojaonaduBNJKSI",
+            "android_id": "47650080f94eaa2ce1d8de5083fbd1e7",
+            "referred_by": "@Rafranck12eOsjWPb5",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-07T14:13:09.271661",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
