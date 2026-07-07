@@ -860,11 +860,10 @@
             "referred_to": [
                 "adrboyNNAjdCV1",
                 "Waidhfs4IRaZ",
-                "Erict1TrYwp2",
-                "fah8YFGZzE0"
+                "Erict1TrYwp2"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-07T04:14:42.324887",
+            "status": "active",
+            "countdown_start_time": "2026-07-14T08:26:05.699441",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
@@ -989,13 +988,13 @@
             "referred_by": "Bomba1o9KE12I3",
             "referred_to": [],
             "status": "inactive",
-            "countdown_start_time": "2026-07-06T21:45:59.516713",
+            "countdown_start_time": "2026-07-05T22:21:25.645641",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 2,
+            "pause_count": 1,
             "max_pauses": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 427006
+            "paused_remaining_time": 468522,
+            "countdown_paused": true
         },
         {
             "id": "Waidhfs4IRaZ",
@@ -1026,20 +1025,8 @@
             "android_id": "92eb18367351857d9283e961aabac083",
             "referred_by": "MbolajCBfyKMg",
             "referred_to": [],
-            "status": "inactive",
+            "status": "active",
             "countdown_start_time": "2026-07-06T10:26:46.632066",
-            "affiliation_balance": 0,
-            "plan": "Semaine",
-            "pause_count": 0,
-            "max_pauses": 3
-        },
-        {
-            "id": "fah8YFGZzE0",
-            "android_id": "da661878b4ce9b4836a2312258b9bc89",
-            "referred_by": "faso4mdh1bdj",
-            "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-06T21:45:58.775209",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
