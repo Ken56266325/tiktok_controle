@@ -862,7 +862,8 @@
             "referred_to": [
                 "adrboyNNAjdCV1",
                 "Waidhfs4IRaZ",
-                "Erict1TrYwp2"
+                "Erict1TrYwp2",
+                "KyruaAgOe0lQA"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-07-07T16:00:17.022859",
@@ -1053,6 +1054,18 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-07-07T20:04:40.655488",
+            "affiliation_balance": 0,
+            "plan": "Semaine",
+            "pause_count": 0,
+            "max_pauses": 3
+        },
+        {
+            "id": "KyruaAgOe0lQA",
+            "android_id": "6da23cb2933da3918226ddde33a6de44",
+            "referred_by": "faso4mdh1bdj",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-07T20:37:49.403165",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
