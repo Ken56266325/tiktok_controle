@@ -1006,14 +1006,13 @@
             "android_id": "ef16d77249b06bf0b867dd6c7e43f2d2",
             "referred_by": "faso4mdh1bdj",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-08T09:21:30.708115",
+            "status": "active",
+            "countdown_start_time": "2026-07-12T04:26:44.938698",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
             "max_pauses": 3,
-            "paused_remaining_time": 280601,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "Erict1TrYwp2",
