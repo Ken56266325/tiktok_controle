@@ -869,7 +869,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-07-08T11:07:02.762395",
-            "affiliation_balance": 0,
+            "affiliation_balance": 500,
             "plan": "Semaine",
             "pause_count": 4,
             "max_pauses": 3,
