@@ -1071,11 +1071,13 @@
             "referred_by": "faso4mdh1bdj",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-15T08:36:45.746284",
+            "countdown_start_time": "2026-07-08T22:42:19.626214",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 0,
-            "max_pauses": 3
+            "pause_count": 1,
+            "max_pauses": 3,
+            "paused_remaining_time": 554066,
+            "countdown_paused": true
         },
         {
             "id": "JulienVEV5jKSt",
