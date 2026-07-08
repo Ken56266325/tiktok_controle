@@ -865,14 +865,13 @@
                 "Erict1TrYwp2",
                 "KyruaAgOe0lQA"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-07T16:00:17.022859",
+            "status": "active",
+            "countdown_start_time": "2026-07-15T02:19:07.673010",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 2,
             "max_pauses": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 577548
+            "countdown_paused": false
         },
         {
             "id": "PatriciaWMy99e3L",
