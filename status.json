@@ -742,7 +742,7 @@
             "referred_to": [
                 "Bomba3PU9DZ77K"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-07-08T13:01:18.294110",
             "affiliation_balance": 0,
             "countdown_paused": true,
