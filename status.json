@@ -743,9 +743,11 @@
                 "Bomba3PU9DZ77K"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-10T19:34:23.815380",
+            "countdown_start_time": "2026-07-08T13:01:18.294110",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 196385,
+            "pause_count": 1
         },
         {
             "id": "LyndaRL0PycSY",
