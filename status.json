@@ -866,12 +866,13 @@
                 "KyruaAgOe0lQA"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-15T02:19:07.673010",
+            "countdown_start_time": "2026-07-08T11:06:26.021090",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 2,
+            "pause_count": 3,
             "max_pauses": 3,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 573161
         },
         {
             "id": "PatriciaWMy99e3L",
