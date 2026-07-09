@@ -993,12 +993,13 @@
             "referred_by": "Bomba1o9KE12I3",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-12T21:34:37.123170",
+            "countdown_start_time": "2026-07-09T11:33:12.801992",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 1,
+            "pause_count": 2,
             "max_pauses": 3,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 295284
         },
         {
             "id": "Waidhfs4IRaZ",
