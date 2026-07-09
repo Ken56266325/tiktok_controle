@@ -866,7 +866,7 @@
                 "Erict1TrYwp2",
                 "KyruaAgOe0lQA"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-07-09T12:02:48.046655",
             "affiliation_balance": 500,
             "plan": "Semaine",
@@ -991,7 +991,7 @@
             "android_id": "c656741d42a751db593883edfe4c7f54",
             "referred_by": "Bomba1o9KE12I3",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-07-09T11:33:12.801992",
             "affiliation_balance": 0,
             "plan": "Semaine",
