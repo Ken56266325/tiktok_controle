@@ -1070,14 +1070,13 @@
             "android_id": "6da23cb2933da3918226ddde33a6de44",
             "referred_by": "faso4mdh1bdj",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-08T22:42:19.626214",
+            "status": "active",
+            "countdown_start_time": "2026-07-15T17:53:04.038559",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
             "max_pauses": 3,
-            "paused_remaining_time": 554066,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "JulienVEV5jKSt",
