@@ -418,12 +418,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-11T00:24:33.142269",
+            "countdown_start_time": "2026-07-10T17:55:33.206338",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 1,
+            "pause_count": 2,
             "max_pauses": 3,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 23339
         },
         {
             "id": "Gwentikj0K7tkQA",
