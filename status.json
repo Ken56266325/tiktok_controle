@@ -519,14 +519,13 @@
             "android_id": "042bc99561057173dab89998de720d52",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-12T20:47:56.493287",
+            "status": "active",
+            "countdown_start_time": "2026-07-16T07:42:45.381805",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
             "max_pauses": 3,
-            "paused_remaining_time": 218138,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "FanaW8Kmex7e",
