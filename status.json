@@ -994,14 +994,13 @@
             "android_id": "c656741d42a751db593883edfe4c7f54",
             "referred_by": "Bomba1o9KE12I3",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-09T11:33:12.801992",
+            "status": "active",
+            "countdown_start_time": "2026-07-17T06:39:27.042273",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 2,
             "max_pauses": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 295284
+            "countdown_paused": false
         },
         {
             "id": "Waidhfs4IRaZ",
