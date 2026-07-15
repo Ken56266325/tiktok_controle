@@ -891,14 +891,13 @@
             "android_id": "1bd7a69ddd9e0aea9b1c3a6eb21933f4",
             "referred_by": "MbolajCBfyKMg",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-05T06:10:58.699221",
+            "status": "active",
+            "countdown_start_time": "2026-07-21T00:48:09.746008",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
             "max_pauses": 3,
-            "paused_remaining_time": 459475,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "adrboyNNAjdCV1",
