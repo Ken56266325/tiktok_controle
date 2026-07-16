@@ -904,14 +904,13 @@
             "android_id": "1c6accc230e47e647339275aa36beb43",
             "referred_by": "faso4mdh1bdj",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-14T08:01:39.883202",
+            "status": "active",
+            "countdown_start_time": "2026-07-18T13:26:55.331626",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 2,
             "max_pauses": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 188830
+            "countdown_paused": false
         },
         {
             "id": "RomualdM5pLMmls",
