@@ -470,7 +470,7 @@
                 "SoloniainaJ0xkU6Y6",
                 "hasinagl31Ebrk"
             ],
-            "status": "inactive",
+            "status": "active",
             "countdown_start_time": "2026-07-17T08:01:00.738133",
             "affiliation_balance": 0,
             "plan": "Semaine",
@@ -543,13 +543,14 @@
             "android_id": "262ee8d843effe80a324a25c5ae43c46",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2026-07-21T19:03:05.551275",
+            "status": "inactive",
+            "countdown_start_time": "2026-07-06T06:22:02.628725",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
             "max_pauses": 3,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 390172
         },
         {
             "id": "SNeddiej8dFvApA",
@@ -890,14 +891,13 @@
             "android_id": "1bd7a69ddd9e0aea9b1c3a6eb21933f4",
             "referred_by": "MbolajCBfyKMg",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-16T22:51:16.658591",
+            "status": "active",
+            "countdown_start_time": "2026-07-21T00:48:09.746008",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 1,
+            "pause_count": 0,
             "max_pauses": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 352613
+            "countdown_paused": false
         },
         {
             "id": "adrboyNNAjdCV1",
@@ -991,8 +991,8 @@
             "android_id": "c656741d42a751db593883edfe4c7f54",
             "referred_by": "Bomba1o9KE12I3",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-17T06:39:27.042273",
+            "status": "active",
+            "countdown_start_time": "2026-07-24T13:09:14.395382",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 2,
