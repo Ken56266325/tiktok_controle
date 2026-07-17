@@ -543,14 +543,13 @@
             "android_id": "262ee8d843effe80a324a25c5ae43c46",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-06T06:22:02.628725",
+            "status": "active",
+            "countdown_start_time": "2026-07-22T02:24:24.734455",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
             "max_pauses": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 390172
+            "countdown_paused": false
         },
         {
             "id": "SNeddiej8dFvApA",
