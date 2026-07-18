@@ -470,11 +470,11 @@
                 "SoloniainaJ0xkU6Y6",
                 "hasinagl31Ebrk"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-17T08:01:00.738133",
+            "status": "active",
+            "countdown_start_time": "2026-07-25T16:55:07.836374",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 4,
+            "pause_count": 0,
             "max_pauses": 3,
             "countdown_paused": false
         },
