@@ -741,7 +741,7 @@
             "referred_to": [
                 "Bomba3PU9DZ77K"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-07-18T09:16:33.456846",
             "affiliation_balance": 0,
             "countdown_paused": true,
@@ -891,7 +891,7 @@
             "android_id": "1bd7a69ddd9e0aea9b1c3a6eb21933f4",
             "referred_by": "MbolajCBfyKMg",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-07-18T08:55:18.609923",
             "affiliation_balance": 0,
             "plan": "Semaine",
@@ -992,7 +992,7 @@
             "android_id": "c656741d42a751db593883edfe4c7f54",
             "referred_by": "Bomba1o9KE12I3",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-07-18T09:14:35.850896",
             "affiliation_balance": 0,
             "plan": "Semaine",
