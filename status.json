@@ -470,7 +470,7 @@
                 "SoloniainaJ0xkU6Y6",
                 "hasinagl31Ebrk"
             ],
-            "status": "inactive",
+            "status": "active",
             "countdown_start_time": "2026-07-17T08:01:00.738133",
             "affiliation_balance": 0,
             "plan": "Semaine",
@@ -543,13 +543,14 @@
             "android_id": "262ee8d843effe80a324a25c5ae43c46",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2026-07-22T02:24:24.734455",
+            "status": "inactive",
+            "countdown_start_time": "2026-07-06T06:22:02.628725",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
             "max_pauses": 3,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 390172
         },
         {
             "id": "SNeddiej8dFvApA",
@@ -741,12 +742,11 @@
             "referred_to": [
                 "Bomba3PU9DZ77K"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-18T09:16:33.456846",
+            "status": "active",
+            "countdown_start_time": "2026-07-20T18:59:57.128360",
             "affiliation_balance": 0,
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 207803
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "LyndaRL0PycSY",
@@ -867,7 +867,7 @@
                 "KyruaAgOe0lQA"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-23T17:46:35.403794",
+            "countdown_start_time": "2026-07-23T17:47:05.093764",
             "affiliation_balance": 500,
             "plan": "Semaine",
             "pause_count": 4,
@@ -891,14 +891,13 @@
             "android_id": "1bd7a69ddd9e0aea9b1c3a6eb21933f4",
             "referred_by": "MbolajCBfyKMg",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-18T08:55:18.609923",
+            "status": "active",
+            "countdown_start_time": "2026-07-21T00:48:09.746008",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 1,
+            "pause_count": 0,
             "max_pauses": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 229971
+            "countdown_paused": false
         },
         {
             "id": "adrboyNNAjdCV1",
@@ -992,14 +991,13 @@
             "android_id": "c656741d42a751db593883edfe4c7f54",
             "referred_by": "Bomba1o9KE12I3",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-18T09:14:35.850896",
+            "status": "active",
+            "countdown_start_time": "2026-07-24T13:09:14.395382",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 4,
+            "pause_count": 2,
             "max_pauses": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 0
+            "countdown_paused": false
         },
         {
             "id": "Waidhfs4IRaZ",
