@@ -470,7 +470,7 @@
                 "SoloniainaJ0xkU6Y6",
                 "hasinagl31Ebrk"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-07-18T23:39:07.426309",
             "affiliation_balance": 0,
             "plan": "Semaine",
@@ -1132,7 +1132,7 @@
             "android_id": "a8600d237c4f0e39a63af4cebd5a8bb2",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-07-19T00:01:54.949034",
             "affiliation_balance": 0,
             "plan": "Semaine",
