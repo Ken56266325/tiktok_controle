@@ -870,12 +870,13 @@
                 "KyruaAgOe0lQA"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-24T03:47:15.087059",
+            "countdown_start_time": "2026-07-19T16:28:24.293682",
             "affiliation_balance": 500,
             "plan": "Semaine",
             "pause_count": 4,
             "max_pauses": 3,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 386330
         },
         {
             "id": "PatriciaWMy99e3L",
