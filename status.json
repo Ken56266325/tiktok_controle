@@ -1088,11 +1088,13 @@
                 "NOFA1grpwgLTu"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-22T17:49:13.408813",
+            "countdown_start_time": "2026-07-19T09:32:10.233099",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
-            "max_pauses": 3
+            "max_pauses": 3,
+            "paused_remaining_time": 289023,
+            "countdown_paused": true
         },
         {
             "id": "Olomazavaji8UqUrz",
