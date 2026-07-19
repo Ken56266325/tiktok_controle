@@ -852,11 +852,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-25T14:00:41.452370",
+            "countdown_start_time": "2026-07-19T08:59:07.292266",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 0,
-            "max_pauses": 3
+            "pause_count": 1,
+            "max_pauses": 3,
+            "paused_remaining_time": 536494,
+            "countdown_paused": true
         },
         {
             "id": "faso4mdh1bdj",
