@@ -852,12 +852,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-25T15:26:46.886493",
+            "countdown_start_time": "2026-07-19T08:59:07.292266",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
             "max_pauses": 3,
-            "countdown_paused": false
+            "paused_remaining_time": 536494,
+            "countdown_paused": true
         },
         {
             "id": "faso4mdh1bdj",
@@ -908,7 +909,7 @@
             "referred_by": "faso4mdh1bdj",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-19T09:44:37.293004",
+            "countdown_start_time": "2026-07-26T13:45:30.412716",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 2,
