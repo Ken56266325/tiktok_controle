@@ -1141,6 +1141,16 @@
             "plan": "Semaine",
             "pause_count": 0,
             "max_pauses": 3
+        },
+        {
+            "id": "Tinah9194294",
+            "android_id": "1ff2522157a6571b0db94a568798504f",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-27T13:48:29.349416",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ]
 }
