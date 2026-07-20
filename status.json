@@ -1021,12 +1021,13 @@
             "referred_by": "faso4mdh1bdj",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-27T17:34:15.177785",
+            "countdown_start_time": "2026-07-20T18:51:51.731120",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
             "max_pauses": 3,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 600143
         },
         {
             "id": "hasinagl31Ebrk",
