@@ -417,7 +417,7 @@
             "android_id": "54fe44dac98b430cbaf7c4f4e7bf0787",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-07-19T15:15:20.831180",
             "affiliation_balance": 0,
             "plan": "Semaine",
@@ -869,7 +869,7 @@
                 "Erict1TrYwp2",
                 "KyruaAgOe0lQA"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-07-19T16:28:24.293682",
             "affiliation_balance": 500,
             "plan": "Semaine",
@@ -1087,7 +1087,7 @@
             "referred_to": [
                 "NOFA1grpwgLTu"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-07-19T09:32:10.233099",
             "affiliation_balance": 0,
             "plan": "Semaine",
@@ -1101,7 +1101,7 @@
             "android_id": "2388a49ab0835296ce488f6fc732ea22",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-07-19T17:40:19.086952",
             "affiliation_balance": 0,
             "plan": "Semaine",
