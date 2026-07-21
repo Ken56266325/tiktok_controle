@@ -895,7 +895,7 @@
             "android_id": "1bd7a69ddd9e0aea9b1c3a6eb21933f4",
             "referred_by": "MbolajCBfyKMg",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-07-21T00:48:09.746008",
             "affiliation_balance": 0,
             "plan": "Semaine",
@@ -1159,7 +1159,7 @@
             "android_id": "a049822692ba8702c5d1cf10140e5e99",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-07-21T04:46:52.137333",
             "affiliation_balance": 0,
             "countdown_paused": false
