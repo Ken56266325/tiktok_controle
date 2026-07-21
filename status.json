@@ -1022,14 +1022,13 @@
             "android_id": "03b1f5618c6a20ef9ad1c54aded3a727",
             "referred_by": "faso4mdh1bdj",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-20T18:51:51.731120",
+            "status": "active",
+            "countdown_start_time": "2026-07-28T08:22:07.657695",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
             "max_pauses": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 600143
+            "countdown_paused": false
         },
         {
             "id": "hasinagl31Ebrk",
