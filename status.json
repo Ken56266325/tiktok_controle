@@ -909,12 +909,13 @@
             "referred_by": "faso4mdh1bdj",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T19:30:14.742294",
+            "countdown_start_time": "2026-07-21T16:25:17.298241",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 4,
             "max_pauses": 3,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 443097
         },
         {
             "id": "RomualdM5pLMmls",
