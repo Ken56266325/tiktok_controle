@@ -472,12 +472,13 @@
                 "hasinagl31Ebrk"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-27T03:50:08.197278",
+            "countdown_start_time": "2026-07-21T08:28:30.309048",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
             "max_pauses": 3,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 501697
         },
         {
             "id": "FanambynrwN8p8F",
