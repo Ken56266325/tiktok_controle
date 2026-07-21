@@ -520,12 +520,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-25T20:19:28.304980",
+            "countdown_start_time": "2026-07-21T16:24:18.528454",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 1,
+            "pause_count": 2,
             "max_pauses": 3,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 359709
         },
         {
             "id": "FanaW8Kmex7e",
