@@ -624,7 +624,7 @@
             "android_id": "4b578d85d0fe800c8378a5c4a0ab18f8",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
+            "status": "active",
             "countdown_start_time": "2026-07-21T18:03:31.250832",
             "affiliation_balance": 0,
             "countdown_paused": false,
@@ -908,14 +908,13 @@
             "android_id": "1c6accc230e47e647339275aa36beb43",
             "referred_by": "faso4mdh1bdj",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-21T16:25:17.298241",
+            "status": "active",
+            "countdown_start_time": "2026-07-26T22:09:49.386088",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 4,
             "max_pauses": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 443097
+            "countdown_paused": false
         },
         {
             "id": "RomualdM5pLMmls",
