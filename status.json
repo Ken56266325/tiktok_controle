@@ -850,14 +850,13 @@
             "android_id": "2153f6b37f68caa88b1a470fa98245ad",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-20T18:52:21.872866",
+            "status": "active",
+            "countdown_start_time": "2026-07-26T13:56:16.506534",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
             "max_pauses": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 438846
+            "countdown_paused": false
         },
         {
             "id": "faso4mdh1bdj",
