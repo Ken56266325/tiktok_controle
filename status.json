@@ -1078,14 +1078,13 @@
             "android_id": "7bb2603e9b0a4ae884120cde291553a6",
             "referred_by": "hasinagl31Ebrk",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-11T17:00:31.422704",
+            "status": "active",
+            "countdown_start_time": "2026-08-18T16:31:15.851142",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
             "max_pauses": 3,
-            "paused_remaining_time": 528440,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "TahintsoabXo8eBPV",
