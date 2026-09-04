@@ -471,10 +471,10 @@
                 "hasinagl31Ebrk"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-21T14:20:31.213227",
+            "countdown_start_time": "2026-09-11T12:55:03.107565",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 4,
+            "pause_count": 0,
             "max_pauses": 3,
             "countdown_paused": false
         },
