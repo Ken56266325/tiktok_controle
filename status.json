@@ -1079,12 +1079,13 @@
             "referred_by": "hasinagl31Ebrk",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-09T08:35:49.122657",
+            "countdown_start_time": "2026-09-05T13:13:25.839351",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
             "max_pauses": 3,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 328943
         },
         {
             "id": "TahintsoabXo8eBPV",
