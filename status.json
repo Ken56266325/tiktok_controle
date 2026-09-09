@@ -1077,7 +1077,9 @@
             "id": "JulienVEV5jKSt",
             "android_id": "7bb2603e9b0a4ae884120cde291553a6",
             "referred_by": "hasinagl31Ebrk",
-            "referred_to": [],
+            "referred_to": [
+                "Nofa1iHPRSan"
+            ],
             "status": "active",
             "countdown_start_time": "2026-09-11T09:19:28.897785",
             "affiliation_balance": 0,
@@ -1105,6 +1107,18 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-09-05T23:19:44.155515",
+            "affiliation_balance": 0,
+            "plan": "Semaine",
+            "pause_count": 0,
+            "max_pauses": 3
+        },
+        {
+            "id": "Nofa1iHPRSan",
+            "android_id": "784ff2be9a21b08856ce205e7db95d80",
+            "referred_by": "JulienVEV5jKSt",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-09-10T00:03:37.541629",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
