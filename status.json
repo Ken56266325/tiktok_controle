@@ -1082,13 +1082,12 @@
                 "Nofa1iHPRSan"
             ],
             "status": "active",
-            "countdown_start_time": "2026-09-10T06:30:37.928253",
+            "countdown_start_time": "2026-09-11T20:39:47.181274",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
             "max_pauses": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 96530
+            "countdown_paused": false
         },
         {
             "id": "TahintsoabXo8eBPV",
