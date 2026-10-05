@@ -1153,9 +1153,23 @@
             "id": "Baltasaraliha7liQ",
             "android_id": "aa24ef47d010a52cd233144421d12c12",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "Melloman4mAbOOUFd"
+            ],
             "status": "active",
             "countdown_start_time": "2026-10-12T13:27:48.893296",
+            "affiliation_balance": 0,
+            "plan": "Semaine",
+            "pause_count": 0,
+            "max_pauses": 3
+        },
+        {
+            "id": "Melloman4mAbOOUFd",
+            "android_id": "6b2fc5948930c9ef80717b7a5d289b3e",
+            "referred_by": "Baltasaraliha7liQ",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-10-05T17:39:38.380708",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
