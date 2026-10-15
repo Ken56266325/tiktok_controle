@@ -1157,11 +1157,13 @@
                 "Melloman4mAbOOUFd"
             ],
             "status": "active",
-            "countdown_start_time": "2026-10-19T13:28:30.652928",
+            "countdown_start_time": "2026-10-15T11:19:44.151241",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
-            "max_pauses": 3
+            "max_pauses": 3,
+            "paused_remaining_time": 353326,
+            "countdown_paused": true
         },
         {
             "id": "Melloman4mAbOOUFd",
